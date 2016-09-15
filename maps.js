@@ -39,7 +39,7 @@ var continentsDataProvider = {
     "id": "australia",
     "color": "#000080",
     "passZoomValuesToTarget": true,
-    "balloonText": '<strong> Oceania </strong> <br> 1. Craigieburn Valley, New Zealand, 2. Treble Cone, New Zealand <br> 3. The Remarkables, New Zealand <br> 4. Mt. Buller, Australia <br> 5. Mt. Hotham, Australia'
+    "balloonText": '<strong> Oceania </strong> <br> 1. Craigieburn Valley, New Zealand <br> 2. Treble Cone, New Zealand <br> 3. The Remarkables, New Zealand <br> 4. Mt. Buller, Australia <br> 5. Mt. Hotham, Australia'
   }, {
 
     "id": "europe",
