@@ -4,7 +4,7 @@ window.setInterval(
 function () {
 counter = counter + 1;
 document.getElementById("counter").innerHTML = counter;
-}, 150);
+}, 0,001);
 
 // 26042 per sek
 
@@ -13,4 +13,4 @@ window.setInterval(
 function () {
 counter2 = counter2 + 1;
 document.getElementById("counter2").innerHTML = counter2;
-}, 150);
+}, 250);
